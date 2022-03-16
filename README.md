@@ -9,17 +9,21 @@ Build using React.js and Youtube API (from Google).Watch your favourite youtube 
 
 ### Searching Youtube content 
 
-![](app-screenshots/2.png)
+<p align="center">
+  <img src="app-screenshots/1.gif" width="350" height="600" />
+</p>
 
 
 ### Watching a video from the search results
 
-![](app-screenshots/3.png)
+<p align="center">
+  <img src="app-screenshots/2.gif" width="350" height="600" />
+</p>
 
 
 ### Mobile reponsive
 (Also an app walkthrough)
 
 <p align="center">
-  <img src="app-screenshots/1.gif" width="350" height="600" />
+  <img src="app-screenshots/3.gif" width="350" height="600" />
 </p>
